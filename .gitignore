@@ -1,0 +1,9 @@
+data/
+input/
+*.csv
+*.gz
+*.pkl
+*~
+*.swp
+*.png
+nltk_data/
